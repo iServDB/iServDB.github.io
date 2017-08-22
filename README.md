@@ -1,6 +1,5 @@
 ## iServDB
 iServDB 是一種整合型資料庫解決方案，目前核心的資料庫為 PostgreSQL 及 ElasticSearch，串起 SQL 與 NoSQL 的各種可能性。
-
 iServDB is a hybrid database solution, which the core system is combined with PostgreSQL and ElasticSearch. We are looking for the probabilities of connecting SQL and NoSQL.  
 
 ## 開源專案 Open Projects
