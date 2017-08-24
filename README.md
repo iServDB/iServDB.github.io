@@ -8,6 +8,8 @@ iServDB is a hybrid database solution, which the core system is combined with Po
 
 Due to iServDB adopting vary open source project, we make some open projects to contribute something.
 
+* [Book] [New SQL, New database era](https://www.gitbook.com/book/iservdb/new-sql-new-database-era)
+
 ## 關連專案 Related Projects
 * 台灣 PostgreSQL 使用者社群, Taiwan PostgreSQL User Group
 
