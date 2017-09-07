@@ -9,7 +9,7 @@ iServDB is a hybrid database solution, which the core system is combined with Po
 * 資料庫建置規畫 (iServDB Solutions)
 * 資料庫系統顧問 (PostgreSQL, ElasticSearch)
 * 資料庫應用教育訓練
-* 聯絡我： ![piperku@iii.org.tw](https://img.shields.io/badge/piperku-%40iii.org.tw-blue.svg) ![02-66072119](https://img.shields.io/badge/古永忠-(02)66072119-lightgreen.svg)
+* 聯絡我： ![piperku@iii.org.tw](https://img.shields.io/badge/piperku-%40iii.org.tw-blue.svg) ![02-66072119](https://img.shields.io/badge/古永忠-(02)66072119-brightgreen.svg)
 
 ## 開源專案 Open Projects & Publications
 * [About Graph Database](https://www.gitbook.com/book/iservdb/about-graph-database)
